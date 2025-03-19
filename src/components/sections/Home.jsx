@@ -63,7 +63,7 @@ export const Home = () => {
             <div className="p-2.5 max-w-7xl">
               <p className="text-base">
                 <a
-                  // href="https://gaurav220994.github.io/portfolio/Gaurav-Agarwal-Resume.pdf"
+                  href="https://raw.githubusercontent.com/Aashlesha-Chitte/my-portfolio/main/Aashlesha_Chitte.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-500 hover:text-blue-700 hover:underline inline-flex items-center transition-colors duration-200"
